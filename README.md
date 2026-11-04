@@ -19,6 +19,8 @@ liscenceを参照
 ## Overview
 This program reads the information from your `log.ods` file to visualize your work time, similar to how GitHub lets you “grow grass.”
 
+![Habit tracker output](image1.png)
+
 ## System Requirements
 Linux
 
@@ -32,4 +34,3 @@ g++ main.cpp
 
 ## LICENSE
 See the license.
-
