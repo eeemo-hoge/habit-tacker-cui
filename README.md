@@ -36,3 +36,4 @@ g++ main.cpp
 See the license.
 
 [description](LICENSE)
+license is "[LICENSE](LICENSE)"
