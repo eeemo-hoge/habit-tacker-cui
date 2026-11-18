@@ -33,7 +33,5 @@ g++ main.cpp
 ./a.out
 
 ## LICENSE
-See the license.
 
-[description](LICENSE)
 license is "[LICENSE](LICENSE)"
